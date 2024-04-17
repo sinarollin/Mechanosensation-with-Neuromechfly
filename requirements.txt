@@ -1,0 +1,4 @@
+#All of the needed packages for pip installation
+#Terminal Command: pip install -r requirements.txt
+
+

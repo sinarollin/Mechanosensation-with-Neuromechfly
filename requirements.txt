@@ -2,3 +2,4 @@
 #Terminal Command: pip install -r requirements.txt
 
 
+numpy

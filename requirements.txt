@@ -3,3 +3,7 @@
 
 
 numpy
+
+#To run the animation of the force vectors:
+#brew install ffmpeg
+

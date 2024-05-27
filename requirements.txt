@@ -1,8 +1,13 @@
+
+
 #All of the needed packages for pip installation
 #Terminal Command: pip install -r requirements.txt
 
 
 numpy
+flygym
+matplotlib
+scipy
 
 #To run the animation of the force vectors:
 #brew install ffmpeg

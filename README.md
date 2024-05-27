@@ -1,5 +1,7 @@
 # NeuroMechFly 2.0 Navigation Algorithm
 
+### Authors: Shujiro Shobayashi, Katla Gudmundsdottir, Sina Röllin
+
 ## Abstract
 
 This project develops a novel algorithm using NeuroMechFly 2.0 aimed at enabling the fly to navigate through various obstacle environments relying on mechanosensation. The algorithm focuses on scenarios where visual, olfactory, or other sensory capabilities are limited or non-functional, such as dark or tightly enclosed spaces. It includes a finely-tuned decision-making mechanism that facilitates turning and reversing based on mechanosensory feedback, thus enabling the fly to navigate complex environments effectively. The approaches are based on the Hybrid Turning Controller and basic reversing algorithms discussed in class.[^1]
